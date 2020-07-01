@@ -1,4 +1,4 @@
-#Things to remember
+# Things to remember
 
 Fermi problem
 --coming soon-- 
@@ -11,4 +11,3 @@ Fermi problem
 The power of the default
 choice architecture
 other reminders
-
