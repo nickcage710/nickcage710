@@ -1,6 +1,7 @@
 # Things to remember
 
 Fermi problem
+
 --coming soon-- 
 1) Confirmation
 2) Anchoring
@@ -8,6 +9,6 @@ Fermi problem
 4) Substitution
 5) Framing
 6) Sunk-cost
-The power of the default
-choice architecture
-other reminders
+7) The power of the default
+8) choice architecture
+9) other reminders
